@@ -9,7 +9,7 @@ Comprehensive preparation guide for a full-stack AI Engineering role, covering:
 
 ## 📚 Documentation
 
-Start with the **[Main Documentation Guide](./docs/README.md)** for a structured learning path.
+Start with the **[Main Documentation Guide](./docs/README.md)** for a structured learning path, or jump to the **[Quick Reference](./docs/quick-reference.md)** for cheatsheets and rapid navigation.
 
 ### Core Topics
 

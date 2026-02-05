@@ -8,12 +8,13 @@ This documentation will help you prepare for a full-stack AI Engineering role wi
 
 ## Documentation Structure
 
-1. **[Full-Stack Engineering](./full-stack-engineering.md)** - Frontend, backend, distributed systems, and cloud infrastructure
-2. **[AI Engineering](./ai-engineering.md)** - MCP, RAG, function calling, evals, agent systems
-3. **[Non-Deterministic Systems](./non-deterministic-systems.md)** - Managing AI outputs in deterministic systems
-4. **[Security-First Design](./security-first-design.md)** - Shift-left security, IAM, secrets management
-5. **[Technical Communication](./technical-communication.md)** - Architecture decisions and documentation
-6. **[Hands-On Projects](./hands-on-projects.md)** - Practical exercises and implementations
+1. **[Quick Reference](./quick-reference.md)** - Fast navigation, cheatsheets, and interview prep
+2. **[Full-Stack Engineering](./full-stack-engineering.md)** - Frontend, backend, distributed systems, and cloud infrastructure
+3. **[AI Engineering](./ai-engineering.md)** - MCP, RAG, function calling, evals, agent systems
+4. **[Non-Deterministic Systems](./non-deterministic-systems.md)** - Managing AI outputs in deterministic systems
+5. **[Security-First Design](./security-first-design.md)** - Shift-left security, IAM, secrets management
+6. **[Technical Communication](./technical-communication.md)** - Architecture decisions and documentation
+7. **[Hands-On Projects](./hands-on-projects.md)** - Practical exercises and implementations
 
 ## Study Approach
 
